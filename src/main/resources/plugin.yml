@@ -1,0 +1,9 @@
+name: ChampCraftSystem
+version: ${project.version}
+main: champcraft.champcraftsystem.ChampCraftSystem
+api-version: 1.16
+prefix: ChampCraft
+authors: [MooZiii]
+description: The System for the ChampCraft Minecraft Project
+commands:
+  status:
